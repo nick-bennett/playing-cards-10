@@ -13,7 +13,7 @@ public enum Suit {
       case HEARTS:
         return '\u2661';
       default:
-        return 0;
+        return '\u2660';
     }
   }
 
